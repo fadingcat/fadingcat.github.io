@@ -18,7 +18,7 @@ html {
 }
 
 body {
-	background: $white;
+	background-image:url("https://storage.needpix.com/rsynced_images/turquoise-background-1440627339p8p.jpg");
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
@@ -28,6 +28,8 @@ body {
   max-width: 740px;
   padding: 0 10px;
   width: 100%;
+  background: linear-gradient(to bottom right,#5bdeef,#2be6ff);
+  border-radius: 25px;
 }
 
 h1, h2, h3, h4, h5, h6 {
